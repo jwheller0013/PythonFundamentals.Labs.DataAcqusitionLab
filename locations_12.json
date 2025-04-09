@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "resultset": {
+            "offset": 48,
+            "count": 38862,
+            "limit": 4
+        }
+    },
+    "results": [
+        {
+            "mindate": "1965-03-01",
+            "maxdate": "2025-04-06",
+            "name": "Rosario, AR",
+            "datacoverage": 0.8801,
+            "id": "CITY:AR000016"
+        },
+        {
+            "mindate": "1956-02-01",
+            "maxdate": "2025-04-06",
+            "name": "Salta, AR",
+            "datacoverage": 1,
+            "id": "CITY:AR000017"
+        },
+        {
+            "mindate": "1973-01-01",
+            "maxdate": "2025-04-06",
+            "name": "San Juan, AR",
+            "datacoverage": 1,
+            "id": "CITY:AR000018"
+        },
+        {
+            "mindate": "1957-06-01",
+            "maxdate": "2025-04-06",
+            "name": "San Luis, AR",
+            "datacoverage": 1,
+            "id": "CITY:AR000019"
+        }
+    ]
+}
